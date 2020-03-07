@@ -16,4 +16,5 @@ fields:
   label: slug
 pages:
 - docs/doc-and-demo.md
+- docs/tools-for-making-tools.md
 - docs/what-we-like.md
