@@ -1,6 +1,23 @@
 {
   "sidebar": [
     {
+      "section": "About Us",
+      "topics": [
+        {
+          "title": "Who We Are",
+          "slug": "who_we_are"
+        },
+        {
+          "title": "Our Approach",
+          "slug": "/Our_Approach"
+        },
+        {
+          "title": "What We Do",
+          "slug": "What_we_do"
+        }
+      ]
+    },
+    {
       "section": "Our Help",
       "topics": [
         {
@@ -35,23 +52,6 @@
         {
           "title": "Tools that help with tools",
           "slug": "/tthwt"
-        }
-      ]
-    },
-    {
-      "section": "About Us",
-      "topics": [
-        {
-          "title": "Our Approach",
-          "slug": "/Our_Approach"
-        },
-        {
-          "title": "What We Do",
-          "slug": "What_we_do"
-        },
-        {
-          "title": "Who We Are",
-          "slug": "/Who We Are"
         }
       ]
     }
