@@ -1,20 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "",
-      "topics": [
-        {
-          "title": "What We Do",
-          "slug": "/what_we_do"
-        }
-      ]
-    },
-    {
-      "section": "Who we are",
+      "section": "About Us",
       "topics": [
         {
           "title": "Who We Are",
-          "slug": "/who_we_are"
+          "slug": "/Who We Are"
         }
       ]
     }
