@@ -4,6 +4,10 @@
       "section": "Our Help",
       "topics": [
         {
+          "title": "Migrations",
+          "slug": "migrations"
+        },
+        {
           "title": "Financial",
           "slug": "finance"
         },
