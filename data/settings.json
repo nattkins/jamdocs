@@ -4,6 +4,10 @@
       "section": "About Us",
       "topics": [
         {
+          "title": "What We Do",
+          "slug": "What_we_do"
+        },
+        {
           "title": "Who We Are",
           "slug": "/Who We Are"
         }
