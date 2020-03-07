@@ -4,12 +4,16 @@
       "section": "Tools",
       "topics": [
         {
-          "title": "Tools that help with tools",
-          "slug": "/tthwt"
+          "title": "What's Wrong with Nintex",
+          "slug": "Wwwn"
         },
         {
           "title": "What we like and what we don't",
           "slug": "wwl+wwd"
+        },
+        {
+          "title": "Tools that help with tools",
+          "slug": "/tthwt"
         }
       ]
     },
