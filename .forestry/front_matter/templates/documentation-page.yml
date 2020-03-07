@@ -17,6 +17,7 @@ fields:
 pages:
 - docs/doc-and-demo.md
 - docs/forms.md
+- docs/migrations.md
 - docs/tools-for-making-tools.md
 - docs/what-s-wrong-with-nintex.md
 - docs/what-we-like.md
