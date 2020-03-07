@@ -4,6 +4,10 @@
       "section": "About Us",
       "topics": [
         {
+          "title": "Documents and Demos",
+          "slug": "/DandD"
+        },
+        {
           "title": "Who We Are",
           "slug": "/who_we_are"
         },
