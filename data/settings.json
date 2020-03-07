@@ -4,6 +4,10 @@
       "section": "Our Help",
       "topics": [
         {
+          "title": "Forms",
+          "slug": "forms"
+        },
+        {
           "title": "Migrations",
           "slug": "migrations"
         },
