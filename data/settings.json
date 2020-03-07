@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Tools",
+      "topics": [
+        {
+          "title": "What we like and what we don't",
+          "slug": "wwl+wwd"
+        }
+      ]
+    },
+    {
       "section": "About Us",
       "topics": [
         {
