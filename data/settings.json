@@ -4,6 +4,10 @@
       "section": "Our Help",
       "topics": [
         {
+          "title": "Financial",
+          "slug": "finance"
+        },
+        {
           "title": "Government",
           "slug": "/gov"
         }
