@@ -16,6 +16,7 @@ fields:
   label: slug
 pages:
 - docs/doc-and-demo.md
+- docs/forms.md
 - docs/tools-for-making-tools.md
 - docs/what-s-wrong-with-nintex.md
 - docs/what-we-like.md
