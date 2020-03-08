@@ -1,5 +1,5 @@
 ---
-title: Doc and Demo
+title: Documentation first Demos
 date: 2020-01-07
 slug: "/DandD"
 
