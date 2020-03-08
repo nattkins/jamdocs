@@ -4,6 +4,10 @@
       "section": "About Us",
       "topics": [
         {
+          "title": "What We Do",
+          "slug": "what_we_do"
+        },
+        {
           "title": "Who We Are",
           "slug": "who_we_are"
         },
@@ -14,10 +18,6 @@
         {
           "title": "Our Approach",
           "slug": "our_approach"
-        },
-        {
-          "title": "What We Do",
-          "slug": "what_we_do"
         }
       ]
     },
