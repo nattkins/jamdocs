@@ -4,7 +4,7 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
+        <Shortcut link="/who_we_are" text="Who we are" icon="book-open" />
         <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
       </nav>
@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'Welcome to Bravo Criteria'
     }
   },
   metaInfo() {
