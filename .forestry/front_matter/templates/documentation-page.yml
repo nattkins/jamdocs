@@ -16,6 +16,7 @@ fields:
   label: slug
 pages:
 - docs/doc-and-demo.md
+- docs/finance-telecoms-marketing-banking.md
 - docs/forms.md
 - docs/migrations.md
 - docs/tools-for-making-tools.md
