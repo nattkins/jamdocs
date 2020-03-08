@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 date: 2019-12-17
-slug: who_we_are
+slug: "/who_we_are"
 
 ---
 ## Bravo Criteria
