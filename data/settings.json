@@ -25,6 +25,10 @@
       "section": "Our Help",
       "topics": [
         {
+          "title": "Skills",
+          "slug": "/skills"
+        },
+        {
           "title": "Forms",
           "slug": "/forms"
         },
