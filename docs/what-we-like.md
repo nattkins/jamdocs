@@ -4,6 +4,8 @@ date: 2020-03-01
 slug: "/wwl"
 
 ---
+## We're all about
+
 \- The Office 365 PowerPlatform - Automate, Power Apps and PowerBI are central to much of the work we've been using for the last few years
 
 \- SharePoint - we've been doing SharePoint in its various guises for 13 years
