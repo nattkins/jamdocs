@@ -1,7 +1,7 @@
 ---
 title: What's wrong with Nintex
 date: 2020-02-26
-slug: "/Wwwm"
+slug: Wwwm
 
 ---
 1. Nintex has historically poor scalability (I'm leaving a bit of wiggle room here, as I've not so much experience with its cloud offering) - On the other hand Power automate has azure functions and using those together means you have azure function performance and pricing control with power platforms user-friendliness, combined.  [https://powerapps.microsoft.com/en-us/blog/create-business-apps-using-powerapps-and-azure-functions/](https://powerapps.microsoft.com/en-us/blog/create-business-apps-using-powerapps-and-azure-functions/ "https://powerapps.microsoft.com/en-us/blog/create-business-apps-using-powerapps-and-azure-functions/")
