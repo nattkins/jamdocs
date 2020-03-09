@@ -6,7 +6,7 @@ slug: skills
 ---
 ## Skills
 
-we're killing with skills:
+We're killing with skills:
 
 ### Business Related Skills
 
