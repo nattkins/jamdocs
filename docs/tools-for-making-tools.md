@@ -1,7 +1,7 @@
 ---
 title: Tools for making tools
 date: 2020-01-29
-slug: "/Tfmt"
+slug: Tfmt
 
 ---
 ## The tools that make whole thing sing
