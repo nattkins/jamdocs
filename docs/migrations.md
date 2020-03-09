@@ -1,7 +1,7 @@
 ---
 title: Migrations
 date: 2020-03-16
-slug: "/migrations"
+slug: migrations
 
 ---
 ## What exactly is a migration?
