@@ -1,7 +1,7 @@
 ---
 title: Forms
 date: 2020-01-13
-slug: "/Forms"
+slug: forms
 
 ---
 ## We've a thing about Forms
